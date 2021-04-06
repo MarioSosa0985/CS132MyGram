@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B8249F8D-F5D7-4936-999F-93A794A90E2A}|Default">
+  <MonoDevelop.Ide.ItemProperties.CS132MyGram PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS132MyGram/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="CS132MyGram/Startup.cs" Line="26" Column="49" />
+      <File FileName="CS132MyGram/Views/Shared/_Layout.cshtml" Line="14" Column="97" />
+      <File FileName="CS132MyGram/Views/Home/Index.cshtml" Line="6" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS132MyGram" expanded="True">
+            <Node name="CS132MyGram" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
