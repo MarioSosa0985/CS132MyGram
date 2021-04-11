@@ -350,3 +350,4 @@
 /Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/CS132MyGram.dll
 /Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/CS132MyGram.pdb
 /Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/CS132MyGram.genruntimeconfig.cache
+/Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Images/GetAllImages.cshtml.g.cs

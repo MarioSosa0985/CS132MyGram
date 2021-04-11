@@ -1,0 +1,28 @@
+﻿@model IList<Image>
+
+<table>
+    <tbody>
+        @{
+            int counter = 0;
+        }
+        @foreach (var item in Model)
+        {
+            if (counter == 0)
+            {
+                <partial name="_RowStart"></partial>
+            }
+
+            <td>
+                @item.ImageName
+            </td>
+
+            counter++;
+            if (counter == 5)
+            {
+                <partial name="_RowEnd"></partial>
+
+                counter = 0;
+            }
+        }
+    </tbody>
+</table>
