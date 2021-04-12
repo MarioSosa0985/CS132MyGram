@@ -49,6 +49,11 @@ namespace CS132MyGram
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllerRoute(
+                    name: "LogAUser",
+                    pattern: "Users/LogAUser",
+                    defaults: new { controller = "Users", action = "LogUser" });
+
+                endpoints.MapControllerRoute(
                     name: "GetTheImages",
                     pattern: "Images/GetTheImages",
                     defaults: new { controller="Images", action="GetAllImages"});

@@ -351,3 +351,6 @@
 /Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/CS132MyGram.pdb
 /Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/CS132MyGram.genruntimeconfig.cache
 /Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Images/GetAllImages.cshtml.g.cs
+/Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_RowEnd.cshtml.g.cs
+/Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_RowStart.cshtml.g.cs
+/Users/southwestuniversity/Desktop/CS 132 MyGram/CS132MyGram/CS132MyGram/obj/Debug/netcoreapp3.1/Razor/Views/Users/LogIn.cshtml.g.cs
